@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Name: FirstBean.class
+Java-Bean: True
+Created-By: 1.8.0_51 (Oracle Corporation)
